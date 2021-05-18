@@ -1,13 +1,19 @@
 # React Bootstrap RRule Generator
 > Recurrence rules generator form built with React Bootstrap
 
-> Fork of https://github.com/Fafruch/react-rrule-generator.
+> Started by https://github.com/Fafruch/react-rrule-generator.
+> Fork of https://github.com/standup-raven/react-bootstrap-rrule-generator.
+
+After looking for a RRule picker I couldn't find any that looks like updated version that match my environment so this repository is an attempt to reuse as much as I can and adapt it to my needs.
+
+## Target features
+[] Typescript compatible.
+[] Google Calendar like interface MUI instead of bootstrap.
+
 > Content below is from the original repo.
 
 [![LICENSE](https://img.shields.io/npm/l/express.svg)](LICENSE)
 [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://npm-stat.com/charts.html?package=react-rrule-generator)
-
-### This project is no longer maintained by me. Thank you for all your past contributions. Let the forks rock it for you.
 
 
 ![Screenshot](https://i.imgur.com/FU3aGlz.png)

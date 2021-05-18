@@ -1,0 +1,10 @@
+{
+  "include": ["src/lib/**/*"],
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "build",
+    "skipLibCheck": true
+  }
+}
